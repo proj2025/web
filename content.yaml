@@ -1,6 +1,11 @@
 sections:
-  - title: "Forward: A Promise to America"
-    author: Kevin D. Roberts, PhD
+  # Contents
+  # Acknowledgments... ; The Project 2025 Advisory Board
+  # The 2025 Presidential Transition Project: A Note On “Project 2025”
+  # Authors. Contributors
+  # Foreword: A Promise To America Kevin D. Roberts, Phd
+  - title: "Foreword: A Promise To America"
+    author: Kevin D. Roberts, Phd
     quotes:
       - page: 4
         ref: page/n35
@@ -8,8 +13,52 @@ sections:
       - page: 6
         ref: page/n37
         text: the Dobbs decision is just the beginning. … push as hard as possible to protect the unborn in every jurisdiction in America. In particular, the next conservative President should work with Congress to enact the most robust protections for the unborn
-  - title: "Section One: Taking the Reins of Government"
+  # Section 1: Taking The Reins Of Government
+  - title: "Section 1: Taking The Reins Of Government"
     quotes:
       - page: 20
         ref: page/n51
         text: political appointees must be given the tools, knowledge, and support to overcome the federal government’s obstructionist Human Resources departments. More fundamentally, the new Administration must fill its ranks with political appointees.
+# White House Office Rick Dearborn
+# Executive Office Of The President Of The United States Russ Vought
+# Central Personnel Agencies: Managing The Bureaucracy. Donald Devine, Dennis Dean Kirk, And Paul Dans
+
+# Section 2: The Common Defense
+# Department Of Defense Christopher Miller
+# Department Of Homeland Security Ken Cuccinelli
+# Department Of State..... Kiron K. Skinner
+# Intelligence Community Dustin J. Carmack Media Agencies
+# U.S. Agency For Global Media... Eer Mora Namdar Corporation For Public Broadcasting .... Mike Gonzalez
+# Agency For International Development Max Primorac
+
+# Section 3: The General Welfare
+# 10. Department Of Agriculture Daren Bakst
+# 11. Department Of Education... Lindsey M. Burke
+# 12. Department Of Energy And Related Commissions Bernard L. Mcnamee
+# 13. Environmental Protection Agency Mandy M. Gunasekara
+# 14. Department Of Health And Human Services Roger Severino
+# 15. Department Of Housing And Urban Development Benjamin S. Carson, Sr., Md
+# 16. Department Of The Interior William Perry Pendley
+# 17. Department Of Justice Gene Hamilton
+# 18. Department Of Labor And Related Agencies .. Jonathan Berry
+# 19. Department Of Transportation. Diana Furchtgott-Roth
+# 20. Department Of Veterans Affairs Brooks D. Tucker
+
+# Section 4: The Economy
+# Department Of Commerce Thomas F. Gilman
+# Department Of The Treasury William L. Walton, Stephen Moore, And David R. Burton Export-Import Bank
+# The Export-Import Bank Should Be Abolished
+# Veronique De Rugy
+# The Case For The Export-Import Bank
+# Jennifer Hazelton
+# Federal Reserve... Paul Winfree
+# Small Business Administration Karen Kerrigan Trade
+# The Case For Fair Trade... Peter Navarro
+# The Case For Free Trade..... Kent Lassman
+# Section 5: Independent Regulatory Agencies
+# Financial Regulatory Agencies Securities And Exchange Commission And Related Agencies David R. Burton Consumer Financial Protection Bureau .... Robert Bowes
+# Federal Communications Commission Brendan Carr
+# Federal Election Commission Hans A. Von Spakovsky
+# Federal Trade Commission ... Adam Candeub
+# Onward! Edwin J. Feulner
+
