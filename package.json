@@ -1,0 +1,23 @@
+{
+  "name": "project2025",
+  "version": "1.0.0",
+  "description": "Project 2025",
+  "main": "index.js",
+  "scripts": {
+    "build": "mustache content.js index-template.html > index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proj2025/web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proj2025/web/issues"
+  },
+  "homepage": "https://github.com/proj2025/web#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
