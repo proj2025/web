@@ -348,26 +348,287 @@ sections:
       - page: 523
         ref: 523
         text: Conduct offshore oil and natural gas lease sales to the maximum extent permitted
-# 17. Department Of Justice Gene Hamilton
-# 18. Department Of Labor And Related Agencies .. Jonathan Berry
-# 19. Department Of Transportation. Diana Furchtgott-Roth
-# 20. Department Of Veterans Affairs Brooks D. Tucker
-
-# Section 4: The Economy
-# Department Of Commerce Thomas F. Gilman
-# Department Of The Treasury William L. Walton, Stephen Moore, And David R. Burton Export-Import Bank
-# The Export-Import Bank Should Be Abolished
-# Veronique De Rugy
-# The Case For The Export-Import Bank
-# Jennifer Hazelton
-# Federal Reserve... Paul Winfree
-# Small Business Administration Karen Kerrigan Trade
-# The Case For Fair Trade... Peter Navarro
-# The Case For Free Trade..... Kent Lassman
-# Section 5: Independent Regulatory Agencies
-# Financial Regulatory Agencies Securities And Exchange Commission And Related Agencies David R. Burton Consumer Financial Protection Bureau .... Robert Bowes
-# Federal Communications Commission Brendan Carr
-# Federal Election Commission Hans A. Von Spakovsky
-# Federal Trade Commission ... Adam Candeub
+      - page: 523
+        ref: 523
+        text: Conclude the programmatic review of the coal leasing program, and work with the congressional delegations and governors of Wyoming and Montana to restart the program immediately.
+      - page: 530
+        ref: 530
+        text: Approve the 2020 Willow EIS, the largest pending oil and gas projection in the United States in the National Petroleum Reserve-Alaska, and expand approval from three to five drilling pads.
+      - page: 531
+        ref: 531
+        text: Revoke National Park Service and U.S. Fish and Wildlife Service rules regarding predator control and bear baiting
+      - page: 532
+        ref: 532
+        text: the new Administration must vigorously defend the downward adjustments it makes to permit a ruling on a President's authority to reduce the size of national monuments by the U.S. Supreme Court. Finally, the new Administration must seek repeal of the Antiquities Act of 1906
+      - page: 534
+        ref: 534
+        text: Delist the grizzly bear in the Greater Yellowstone and Northern Continental Divide Ecosystems … Delist the gray wolf in the lower 48 states in light of its full recovery under the ESA. Cede to western states jurisdiction over the greater sage-grouse
+      - page: 534
+        ref: 534
+        text: "Direct the Fish and Wildlife Service to: (1) design and implement an Endangered Species Act program that ensures independent decision making by ending reliance on so-called species specialists"
+      - page: 535
+        ref: 535
+        text: Reduce the number of field coal-reclamation inspectors
+      - page: 537
+        ref: 537
+        text: End federal mandates and subsidies of electric vehicles.
+  # 17. Department Of Justice Gene Hamilton
+  - title: Department Of Justice
+    author: Gene Hamilton
+    quotes:
+      - page: 547
+        ref: 547
+        text: place a high priority on reforming the DOJ and its culture … Critically, this must include the FBI. … a top-to-bottom overhaul … At a practical level, not reforming the Department of Justice will also guarantee the failure of that conservative Administration's agenda
+      - page: 549
+        ref: 549
+        text: Conduct an immediate, comprehensive review of all major active FBI investigations and activities and terminate any that are unlawful or contrary to the national interest.
+      - page: 550
+        ref: 550
+        text: Prohibit the FBI from engaging, in general, in activities related to combating the spread of so-called misinformation and disinformation by Americans who are not tied to any plausible criminal activity.
+      - page: 553
+        ref: 553
+        text: initiate legal action against local officials-including District Attorneys-who deny American citizens the "equal protection of the laws" by refusing to prosecute criminal offenses in their jurisdictions.
+      - page: 554
+        ref: 554
+        text: The next conservative Administration should therefore do everything possible to obtain finality for the 44 prisoners currently on federal death row.
+      - page: 562
+        ref: 562
+        text: Announcing a Campaign to Enforce the Criminal Prohibitions in 18 U.S. Code §§ 1461 and 1462 Against Providers and Distributors of Abortion Pills That Use the Mail
+      - page: 562
+        ref: 562
+        text: Reassigning Responsibility for Prosecuting Election-Related Offenses from the Civil Rights Division to the Criminal Division. The Attorney General in the next conservative Administration should reassign responsibility for prosecuting violations of 18 U.S. Code § 241
+      - page: 569
+        ref: 569
+        text: It is not enough for political appointees to serve in obvious offices … support a vast expansion of the number of appointees in every office and component across the department-especially in the Civil Rights Division, the FBI, and the EOIR*.
+        note: "* Executive Office for Immigration Review"
+  # 18. Department Of Labor And Related Agencies .. Jonathan Berry
+  - title: Department Of Labor And Related Agencies
+    author: Jonathan Berry
+    quotes:
+      - page: 583
+        ref: 583
+        text: Eliminate EEO-1 data collection. The Equal Employment Opportunity Commission collects EEO-1 data on employment statistics based on race/ ethnicity, which data can then be used to support a charge of discrimination under a disparate impact theory.
+      - page: 583
+        ref: 583
+        text: Eliminate disparate impact as a valid theory of discrimination for race and other bases under Title VII and other laws. Disparities do not (and should not legally) imply discrimination per se.
+      - page: 583
+        ref: 583
+        text: Eliminate OFCCP. The Office of Federal Contract Compliance Programs (OFCCP) exists to enforce Executive Order (EO) 11246. That order was originally signed in 1965 to require federal contractors (and subcontractors) to commit to nondiscrimination.
+      - page: 584
+        ref: 584
+        text: The President should direct agencies to rescind regulations interpreting sex discrimination provisions as prohibiting discrimination on the basis of sexual orientation, gender identity, transgender status, sex characteristics, etc.
+      - page: 585
+        ref: 585
+        text: block individual states' efforts to prohibit employers from helping employees procure abortions via offering various kinds of coverage under employee-sponsored benefit plans.
+      - page: 586
+        ref: 586
+        text: The President should make clear via executive order that religious employers are free to run their businesses according to their religious beliefs, general nondiscrimination laws notwithstanding
+      - page: 588
+        ref: 588
+        text: DOL* should commit to honest study of the challenges for women in the world of professional work. … disentangle the influences on women's workforce participation and to understand the true causes of earnings gaps between men and women.
+        note: "* Department of Labor"
+      - page: 589
+        ref: 589
+        text: amending the Fair Labor Standards Act (FLSA) to require that workers be paid time and a half for hours worked on the Sabbath. That day would default to Sunday
+      - page: 590
+        ref: 590
+        text: a home office is not subject to OSHA regulations … time to set up a home office is not compensable time or eligible for overtime calculations … reimbursement for home office expenses is not part of an employee's regular rate, even if those reimbursements are repetitive
+      - page: 595
+        ref: 595
+        text: Some young adults show an interest in inherently dangerous jobs … rules forbid many young people … from working in such jobs … discourages otherwise interested young workers from trying the more dangerous job … young adults should be allowed to learn and work in more dangerous occupations
+  # 19. Department Of Transportation. Diana Furchtgott-Roth
+  - title: Department Of Transportation
+    author: Diana Furchtgott-Roth
+    quotes:
+      - page: 628
+        ref: 628
+        text: Reduce proposed fuel economy levels.
+      - page: 629
+        ref: 629
+        text: Revoke the special waiver granted to California … The federal government should therefore … take all steps necessary to invalidate any inconsistent fuel economy requirements … including its ban on sales of internal combustion engines.
+      - page: 633
+        ref: 633
+        text: Require the FAA* to operate more like a business.
+        note: "* Federal Aviation Administration"
+      - page: 636
+        ref: 636
+        text: remove federal subsidies for transit spending
+      - page: 638
+        ref: 638
+        text: DOT*’s mission is described as reducing the number of trips, using less fuel, and … increased use of renewables. These goals are not compatible with what should be DOT’s purpose
+        note: "* Department of Transportation"
+  # 20. Department Of Veterans Affairs Brooks D. Tucker
+  - title: Department Of Veterans Affairs
+    author: Brooks D. Tucker
+    quotes:
+      - page: 644
+        ref: 644
+        text: Rescind all departmental clinical policy directives that are contrary to principles of conservative governance starting with abortion services and gender reassignment surgery.
+      - page: 647
+        ref: 647
+        text: "Require VHA* facilities to increase the number of patients seen each day to equal the number seen by DOD medical facilities: approximately 19 patients per provider per day. Currently, VA facilities may be seeing as few as six patients per provider per day."
+        note: "* Veteran Health Administration"
+      - page: 652
+        ref: 652
+        text: sunset the Office of Accountability and Whistleblower Protection
+      - page: 660
+        ref: 660
+        text: reducing marginal tax rates, reducing the cost of capital, and broadening the tax base to eliminate tax-induced economic distortions by eliminating special-interest tax credits, deductions, and exclusions.
+  # Section 4: The Economy
+  # Department Of Commerce Thomas F. Gilman
+  - title: Department Of Commerce
+    author: Thomas F. Gilman
+    quotes:
+      - page: 664
+        ref: 664
+        text: The National Oceanographic and Atmospheric Administration (NOAA) should be dismantled and many of its functions eliminated
+      - page: 676
+        ref: 676
+        text: Withdraw the 30x30 Executive Order and Associated America the Beautiful Initiative. … being used to advance an agenda to close vast areas of the ocean to commercial activities, including fishing, while rapidly advancing offshore wind energy development
+      - page: 676
+        ref: 676
+        text: Modify Regulations Implementing the Marine Mammal Protection Act and the Endangered Species Act.
+      - page: 676
+        ref: 676
+        text: Downsize the Office of Oceanic and Atmospheric Research. … The preponderance of its climate-change research should be disbanded.
+      - page: 679
+        ref: 679
+        text: committed political appointees and like-minded career employees are in immediately put in place to execute a conservative agenda. These will need to be placed both in the Census Bureau and in key department-level managerial positions
+      - page: 680
+        ref: 680
+        text: Any successful conservative Administration must include a citizenship question in the census.
+      - page: 684
+        ref: 684
+        text: MBDA* has the appearance, on its face, of perpetuating racial bias by focusing on minority advancement rather than economic need or other criteria. … Many conservatives ask why the government is funding this activity
+        note: "* Minority Business Development Agency"
+      - page: 685
+        ref: 685
+        text: Oppose efforts to provide intellectual property waivers for cutting-edge technologies, including for COVID-19 vaccines and therapeutics, through the World Trade Organization’s Trade-Related Aspects of Intellectual Property Rights agreement or any other mechanism.
+      - page: 686
+        ref: 686
+        text: Reestablish U.S. dominance in international standards. NIST* should explore ways to incentivize broader U.S. participation in standards-setting bodies and the exclusion of participants from adversaries like China.
+        note: "* National Institute of Standards and Technology"
+      - page: 687
+        ref: 687
+        text: Immediately conduct a thorough review of federal policy regarding free speech online and provide policy solutions to address big tech’s censorship of speech.
+  # Department Of The Treasury William L. Walton, Stephen Moore, And David R. Burton
+  - title: Department Of The Treasury
+    author: William L. Walton, Stephen Moore, And David R. Burton
+    quotes:
+      - page: 696
+        ref: 696
+        text: repeal … the coal excise tax, the reinstated Superfund tax, and excise taxes on drug manufacturers to compel them to comply with Medicare price controls. … fully repeal … credits and tax breaks for green energy companies
+      - page: 697
+        ref: 697
+        text: Businesses should also be allowed to fully carry forward net operating losses. Extra layers of taxes on investment and capital should also be eliminated or reduced. The net investment income surtax and the base erosion anti-abuse tax should be eliminated.
+      - page: 697
+        ref: 697
+        text: The estate and gift tax should be reduced to no higher than 20 percent
+      - page: 697
+        ref: 697
+        text: All non-business tax deductions and exemptions that were temporarily suspended by the 2017 tax bill should be permanently repealed, including the bicycle commuting expense exclusion, non-military moving expense deductions, and the miscellaneous itemized deductions.
+      - page: 697
+        ref: 697
+        text: Deductions related to educational expenses should be repealed.
+      - page: 697
+        ref: 697
+        text: a special deduction for energy-efficient commercial building properties, should be eliminated.
+      - page: 697
+        ref: 697
+        text: set a meaningful cap … on untaxed benefits that employers can claim as deductions. Employee benefit expenses other than tax-deferred retirement account contributions should count toward the limitation, whether offered to specific employees or whether the costs relate to a shared benefit
+      - page: 697
+        ref: 697
+        text: The limitation on benefit deductions should not be indexed to increase with inflation.
+      - page: 697
+        ref: 697
+        text: Employers should also be denied deductions for health insurance and other benefits provided to employee dependents if the dependents are aged 23 or older.
+      - page: 698
+        ref: 698
+        text: The U.S. should end its financial support and withdraw from the OECD.*
+        note: "* Organization for Economic Co-operation and Development"
+      - page: 706
+        ref: 706
+        text: Fannie Mae and Freddie Mac … must be wound down in an orderly manner.
+      - page: 707
+        ref: 707
+        text: Congress should repeal the Corporate Transparency Act
+      - page: 708
+        ref: 708
+        text: Identify every Treasury official who participated in DEI initiatives and interview him or her for the purpose of determining the scope and nature of these initiatives and to ensure that such initiatives are completely ended.
+      - page: 708
+        ref: 708
+        text: Treat the participation in any critical race theory or DEI initiative, without objecting on constitutional or moral grounds, as per se grounds for termination of employment.
+      - page: 708
+        ref: 708
+        text: The Administration should eliminate the 25-member Treasury Advisory Committee on Racial Equity.
+      - page: 709
+        ref: 709
+        text: eliminate the Climate Hub Office and withdraw from climate change agreements
+      - page: 709
+        ref: 709
+        text: use Treasury’s tools and authority to promote investment in domestic energy, including oil and gas.
+      - page: 709
+        ref: 709
+        text: reverse support for international public- (and private-) based efforts promoting Environmental, Social, and Governance and Principles for Responsible Investment
+  # Export-Import Bank
+  # The Export-Import Bank Should Be Abolished Veronique De Rugy
+  # The Case For The Export-Import Bank Jennifer Hazelton
+  # Federal Reserve... Paul Winfree
+  - title: Federal Reserve
+    author: Paul Winfree
+    quotes:
+      - page: 740
+        ref: 740
+        text: Eliminate “full employment” from the Fed’s mandate, requiring it to focus on price stability alone.
+      - page: 740
+        ref: 740
+        text: Have elected officials compel the Fed to specify its target range for inflation
+  # Small Business Administration Karen Kerrigan
+  - title: Small Business Administration
+    author: Karen Kerrigan
+    quotes:
+      - page: 753
+        ref: 753
+        text: if its investigation uncovers evidence that Planned Parenthood affiliates or any other loan recipients knowingly misrepresented their eligibility in their applications, the SBA* should make appropriate referrals to the Department of Justice.
+        note: "* Small Business Administraton"
+  # Trade
+  # The Case For Fair Trade... Peter Navarro
+  - title: The Case For Fair Trade
+    author: Peter Navarro
+    quotes:
+      - page: 790
+        ref: 790
+        text: Compel the closure of all Confucius Institutes in the U.S.
+      - page: 790
+        ref: 790
+        text: Hold the CCP* accountable for the COVID-19 virus, which almost certainly originated as a genetically engineered virus from the Wuhan Institute of Virology
+        note: "* Chinese Communist Party"
+      - page: 790
+        ref: 790
+        text: Significantly reduce or eliminate the issuance of visas to Chinese students
+  # The Case For Free Trade..... Kent Lassman
+  # Section 5: Independent Regulatory Agencies
+  # Financial Regulatory Agencies
+  # Securities And Exchange Commission And Related Agencies David R. Burton
+  - title: Securities And Exchange Commission And Related Agencies
+    author: David R. Burton
+    quotes:
+      - page: 832
+        ref: 832
+        text: Repeal the Dodd–Frank mandated disclosures relating to conflict minerals, mine safety, resource extraction, and CEO pay ratios.
+      - page: 832
+        ref: 832
+        text: Oppose efforts to redefine the purpose of business in the name of social justice; corporate social responsibility (CSR); stakeholder theory; environmental, social, and governance (ESG) criteria; socially responsible investing (SRI); sustainability; diversity; business ethics
+  # Consumer Financial Protection Bureau .... Robert Bowes
+  # Federal Communications Commission Brendan Carr
+  # Federal Election Commission Hans A. Von Spakovsky
+  # Federal Trade Commission ... Adam Candeub
+  - title: Federal Trade Commission
+    author: Adam Candeub
+    quotes:
+      - page: 873
+        ref: 873
+        text: Congress should investigate ESG* practices
+        note: "* Environmental, Social, and Governance"
 # Onward! Edwin J. Feulner
 
