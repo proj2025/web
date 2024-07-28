@@ -1,5 +1,5 @@
 // BEGIN Matomo
-const _paq = window._paq = window._paq || []
+/* global _paq:writable */
 /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 _paq.push(['trackPageView'])
 _paq.push(['enableLinkTracking']);
