@@ -19,38 +19,335 @@ sections:
       - page: 20
         ref: n51
         text: political appointees must be given the tools, knowledge, and support to overcome the federal government’s obstructionist Human Resources departments. More fundamentally, the new Administration must fill its ranks with political appointees.
-# White House Office Rick Dearborn
+  # White House Office Rick Dearborn
   - title: White House Office
     author: Rick Dearborn
     quotes:
       - page: 60
         ref: 60
         text: Similarly, the Biden Administration’s climate fanaticism will need a whole-of-government unwinding.
-# Executive Office Of The President Of The United States Russ Vought
-# Central Personnel Agencies: Managing The Bureaucracy. Donald Devine, Dennis Dean Kirk, And Paul Dans
+  # Executive Office Of The President Of The United States Russ Vought
+  # Central Personnel Agencies: Managing The Bureaucracy. Donald Devine, Dennis Dean Kirk, And Paul Dans
   - title: "Central Personnel Agencies: Managing The Bureaucracy"
     author: Donald Devine, Dennis Dean Kirk, And Paul Dans
     quotes:
       - page: 82
         ref: 82
         text: Congress should also consider whether public-sector unions are appropriate in the first place. The bipartisan consensus up until the middle of the 20th century held that these unions were not compatible with constitutional government.
+  # Section 2: The Common Defense
+  # Department Of Defense Christopher Miller
+  - title: Department Of Defense
+    author: Christopher Miller
+    quotes:
+      - page: 94
+        ref: 94
+        text: Implement nuclear modernization and expansion. The United States manifestly needs to modernize, adapt, and expand its nuclear arsenal.
+      - page: 101
+        ref: 101
+        text: End informal congressional notification. … The tiered review process is not codified in law; it is merely a practice by which the Department of State provides a preview of prospective arms transfers before Congress is formally notified.
+      - page: 103
+        ref: 103
+        text: those with gender dysphoria should be expelled from military service
+      - page: 104
+        ref: 104
+        text: Reverse policies that allow transgender individuals to serve in the military. Gender dysphoria is incompatible with the demands of military service, and the use of public monies for transgender surgeries or to facilitate abortion for service members should be ended.
+      - page: 120
+        ref: 120
+        text: End USCYBERCOM’s participation in federal efforts to “fortify” U.S. elections
+      - page: 121
+        ref: 121
+        text: Make irregular warfare a cornerstone of security strategy.
+  # Department Of Homeland Security Ken Cuccinelli
+  - title: Department Of Homeland Security
+    author: Ken Cuccinelli
+    quotes:
+      - page: 139
+        ref: 139
+        text: CBP* should restart and expand use of the horseback-mounted Border Patrol.
+        note: "* Customs and Border Protection"
+      - page: 140
+        ref: 140
+        text: A single nationwide detention standard … Such standards should allow the flexibility to use large numbers of temporary facilities such as tents
+      - page: 141
+        ref: 141
+        text: Eliminate T* and U visas. Victimization should not be a basis for an immigration benefit.
+        note: "* Trafficking"
+      - page: 142
+        ref: 142
+        text: ICE Enforcement and Removal Operations (ERO) should be … primarily responsible for … civil arrest, detention, and removal of immigration violators anywhere in the United States, without warrant where appropriate
+      - page: 142
+        ref: 142
+        text: All ICE memoranda identifying “sensitive zones” where ICE personnel are prohibited from operating should be rescinded.
+      - page: 142
+        ref: 142
+        text: The use of Blackies Warrants should be operationalized within ICE. These civil search warrants are commonly used for worksite enforcement when agents have probable cause that illegal aliens are employed at a business. This would streamline investigations.
+      - page: 146
+        ref: 146
+        text: USCIS* should make it clear that where no court jurisdiction exists, it will not honor court decisions that seek to undermine regulatory and subregulatory efforts.
+        note: "* U.S. Citizenship and Immigration Services"
+      - page: 146
+        ref: 146
+        text: USCIS* still requires access to all relevant national security and law enforcement databases in the same vein as any other agency in the intelligence space.
+        note: "* U.S. Citizenship and Immigration Services"
+      - page: 147
+        ref: 147
+        text: USCIS* should be classified as a national security-sensitive agency … Leaks must be investigated and punished as they would be in a national security agency, and the union should be decertified.
+        note: "* U.S. Citizenship and Immigration Services"
+      - page: 148
+        ref: 148
+        text: at a minimum codify the holding in Matter of A-B,- that gang violence and domestic violence are not grounds for asylum
+      - page: 155
+        ref: 155
+        text: Of the utmost urgency is immediately ending CISA's* counter-mis/disinformation efforts.
+        note: "* Cybersecurity and Infrastructure Security Agency"
+      - page: 159
+        ref: 159
+        text: Until it is privatized, TSA should be treated as a national security provider, and its workforce should be deunionized immediately.
+      - page: 162
+        ref: 162
+        text: OGC* should advise principals as to how DHS can execute its missions within the law instead of advising principals as to why they cannot execute regulations, policies, and programs.
+        note: "* Office of the General Counsel"
+      - page: 165
+        ref: 165
+        text: all civil liberties or civil rights complaints are sent to the Office of Inspector General (OIG) for review. If the OIG chooses not to investigate, the CRCL* Officer should only provide supportive information on possible courses of action
+        note: "* Civil Rights and Civil Liberties"
+      - page: 165
+        ref: 165
+        text: only U.S. persons and Lawful Permanent Residents are provided protections as required by the Privacy Act
+      - page: 165
+        ref: 165
+        text: The Office of the Immigration Detention Ombudsman should be eliminated.
+      - page: 165
+        ref: 165
+        text: The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.
+      - page: 167
+        ref: 167
+        text: Allow DHS* to lead international engagement in the Western Hemisphere on issues of security and migration.
+        note: "* Department of Homeland Security"
+  # Department Of State..... Kiron K. Skinner
+  - title: Department Of State
+    author: Kiron K. Skinner
+    quotes:
+      - page: 185
+        ref: 185
+        text: The Palestinian Authority should be defunded.
+      - page: 186
+        ref: 186
+        text: Reorient the focus of U.S. overseas development assistance away from stand-alone humanitarian development aid and toward fostering free market systems in African countries by incentivizing and facilitating U.S. private sector engagement in these countries.
+      - page: 192
+        ref: 192
+        text: promote a strict text-based interpretation of treaty obligations that does not consider human rights treaties as "living instruments" both within the State Department and within international organizations that receive U.S. funding
+  # Intelligence Community Dustin J. Carmack
+  - title: Intelligence Community
+    author: Dustin J. Carmack
+    quotes:
+      - page: 216
+        ref: 216
+        text: The IC* should be prohibited from monitoring so-called domestic disinformation.
+        note: "* Intelligence Community"
+      - page: 226
+        ref: 226
+        text: An incoming President should ask for an immediate study of the implementation of Executive Order 14086* and suspend any provisions that unduly burden intelligence collection.
+        note: "* Enhancing Safeguards for United States Signals Intelligence Activities"
+  # Media Agencies
+  # U.S. Agency For Global Media... Eer Mora Namdar Corporation For Public Broadcasting .... Mike Gonzalez
+  - title: Corporation For Public Broadcasting
+    author: Mike Gonzalez
+    quotes:
+      - page: 248
+        ref: 248
+        text: The next President should instruct the FCC to exclude the stations affiliated with PBS and NPR from the NCE* denomination and the privileges that come with it.
+        note: "* Noncommercial educational"
+  # Agency For International Development Max Primorac
+  - title: Agency For International Development
+    author: Max Primorac
+    quotes:
+      - page: 257
+        ref: 257
+        text: rescind all climate policies from its foreign aid programs (specifically USAID's Climate Strategy 2022-2030); shut down the agency's offices, programs, and directives designed to advance the Paris Climate Agreement
+      - page: 258
+        ref: 258
+        text: dismantle USAID's DEI apparatus by eliminating the Chief Diversity Officer position along with the DEI advisers and committees; cancel the DEI scorecard and dashboard; remove DEI requirements from contract and grant tenders and awards
+      - page: 259
+        ref: 259
+        text: 'remove all references, examples, definitions, photos … websites … publications and policies … contracts and grants that include the following terms: "gender," "gender equality," "gender equity," "gender diverse individuals," "gender aware," "gender sensitive," etc.'
+      - page: 259
+        ref: 259
+        text: remove references to - "abortion," "reproductive health," and "sexual and reproductive rights" and controversial sexual education materials
+      - page: 265
+        ref: 265
+        text: Increasing USAID Collaboration with Faith-Based Organizations
 
-# Section 2: The Common Defense
-# Department Of Defense Christopher Miller
-# Department Of Homeland Security Ken Cuccinelli
-# Department Of State..... Kiron K. Skinner
-# Intelligence Community Dustin J. Carmack Media Agencies
-# U.S. Agency For Global Media... Eer Mora Namdar Corporation For Public Broadcasting .... Mike Gonzalez
-# Agency For International Development Max Primorac
-
-# Section 3: The General Welfare
-# 10. Department Of Agriculture Daren Bakst
-# 11. Department Of Education... Lindsey M. Burke
-# 12. Department Of Energy And Related Commissions Bernard L. Mcnamee
-# 13. Environmental Protection Agency Mandy M. Gunasekara
-# 14. Department Of Health And Human Services Roger Severino
-# 15. Department Of Housing And Urban Development Benjamin S. Carson, Sr., Md
-# 16. Department Of The Interior William Perry Pendley
+  # Section 3: The General Welfare
+  # 10. Department Of Agriculture Daren Bakst
+  - title: Department Of Agriculture
+    author: Daren Bakst
+    quotes:
+      - page: 293
+        ref: 293
+        text: Remove the U.S. from any association with U.N. and other efforts to push sustainable-development schemes connected to food production.
+      - page: 297
+        ref: 297
+        text: prohibiting farmers from receiving an ARC¹ or PLC² payment the same year they receive a crop insurance indemnity.
+        note: ¹ Agricultural Risk Coverage, ² Price Loss Coverage
+      - page: 302
+        ref: 302
+        text: As for baby formula regulations generally, labeling regulations and regulations that unnecessarily delay the manufacture and sale of baby formula should be re-evaluated.
+      - page: 304
+        ref: 304
+        text: Champion the elimination of the Conservation Reserve Program. Farmers should not be paid in such a sweeping way not to farm their land.
+      - page: 305
+        ref: 305
+        text: Only meat and poultry from federally inspected facilities can be sold in interstate commerce. … This is an unnecessary regulatory barrier that makes it difficult to get meat and poultry into interstate commerce to create more options for consumers and farmers.
+      - page: 307
+        ref: 307
+        text: Repeal the federal labeling mandate. The USDA should work with Congress to repeal the federal labeling law, while maintaining federal preemption
+      - page: 309
+        ref: 309
+        text: "Dietary Guidelines have a major impact because they … influence how private health providers offer nutritional advice … School meals are required to be consistent with the guidelines. The next Administration should: Work with lawmakers to repeal the Dietary Guidelines."
+  # 11. Department Of Education... Lindsey M. Burke
+  - title: Department Of Education
+    author: Lindsey M. Burke
+    quotes:
+      - page: 319
+        ref: 319
+        text: the federal Department of Education should be eliminated.
+      - page: 322
+        ref: 322
+        text: When the federal government lends money to individuals for a postsecondary education, taxpayers should expect those borrowers to repay. … The new Administration must end abuses in the loan forgiveness programs. Borrowers should be expected to repay their loans.
+      - page: 333
+        ref: 333
+        text: define “sex” under Title IX to mean only biological sex recognized at birth. …  define “sex” under Title IX to mean only biological sex recognized at birth; and strengthen protections for faith-based educational institutions, programs, and activities.
+      - page: 334
+        ref: 334
+        text: abandon this change redefining "sex" to mean "sexual orientation and gender identity" in Title IX immediately … restore the Trump Administration's Title IX regulation, with the additional insistence that "sex" is properly understood as a fixed biological fact.
+      - page: 346
+        ref: 346
+        text: No public education employee or contractor shall use a name to address a student other than the name listed on a student's birth certificate, without the written permission of a student's parents or guardians.
+      - page: 346
+        ref: 346
+        text: No public education employee or contractor shall use a pronoun in addressing a student that is different from that student's biological sex without the written permission of a student's parents or guardians.
+      - page: 354
+        ref: 354
+        text: The Public Service Loan Forgiveness program, which prioritizes government and public sector work over private sector employment, should be terminated.
+      - page: 357
+        ref: 357
+        text: Educational institutions can claim a religious exemption with the Office for Civil Rights at the Department of Education from the strictures of Title IX
+      - page: 361
+        ref: 361
+        text: End time-based and occupation-based student loan forgiveness.
+  # 12. Department Of Energy And Related Commissions Bernard L. Mcnamee
+  - title: Department Of Energy And Related Commissions
+    author: Bernard L. Mcnamee
+    quotes:
+      - page: 365
+        ref: 365
+        text: repeal of massive spending bills like the Infrastructure Investment and Jobs Act … and Inflation Reduction Act …, which … are providing hundreds of billions of dollars in subsidies to renewable energy … rescinding of all funds not already spent
+      - page: 372
+        ref: 372
+        text: Fund the design, development, and deployment of new nuclear warheads, including the production of plutonium pits in quantity.
+      - page: 376
+        ref: 376
+        text: Eliminate carbon capture utilization and storage (CCUS) programs.
+      - page: 378
+        ref: 378
+        text: Eliminate energy efficiency standards for appliances.
+      - page: 382
+        ref: 382
+        text: Eliminate OCED*. The next Administration should work with Congress to eliminate all DOE energy demonstration programs, including those in OCED.
+        note: "* Office of Clean Energy Demonstration"
+      - page: 386
+        ref: 386
+        text: Eliminate the Clean Energy Corps by revoking funding and eliminating all positions and personnel hired under the program.
+      - page: 408
+        ref: 408
+        text: Should not use environmental issues like climate change as a reason to stop LNG* projects.
+        note: "* Liquefied natural gas"
+      - page: 409
+        ref: 409
+        text: Set clear radiation exposure and protection standards by eliminating ALARA ("as low as reasonably achievable") as a regulatory principle
+  # 13. Environmental Protection Agency Mandy M. Gunasekara
+  - title: Environmental Protection Agency
+    author: Mandy M. Gunasekara
+    quotes:
+      - page: 438
+        ref: 438
+        text: Reject precautionary default models and uncertainty factors. … EPA's heavy reliance on default assumptions like its low-dose, linear non-threshold model … EPA should implement an approach that defaults to less restrictive regulatory outcomes.
+  # 14. Department Of Health And Human Services Roger Severino
+  - title: Department Of Housing And Urban Development
+    author: Benjamin S. Carson, Sr., Md
+    quotes:
+      - page: 455
+        ref: 455
+        text: HHS* should use every available tool … to ensure that every state reports exactly how many abortions take place within its borders, at what gestational age of the child, for what reason, the mother's state of residence, and by what method
+        note: "* Health and Human Services"
+      - page: 458
+        ref: 458
+        text: "FDA should therefore: Reverse its approval of chemical abortion drugs"
+      - page: 459
+        ref: 459
+        text: The Administration and policymakers should ensure that health care workers, particularly those in hospitals and emergency rooms, report abortion pill complications.
+      - page: 471
+        ref: 471
+        text: Prohibit Planned Parenthood from receiving Medicaid funds.
+      - page: 481
+        ref: 481
+        text: Protect faith-based grant recipients from religious liberty violations and maintain a biblically based, social science-reinforced definition of marriage and family.
+      - page: 482
+        ref: 482
+        text: Eliminate the Head Start program.
+      - page: 483
+        ref: 483
+        text: Restore Trump religious and moral exemptions to the contraceptive mandate
+      - page: 485
+        ref: 485
+        text: Eliminate men's preventive services from the women's preventive services mandate. … HRSA* should not incorporate exclusively male contraceptive methods into guidelines that specify they encompass only women's services.
+        note: "* Health Resources and Services Administration"
+      - page: 485
+        ref: 485
+        text: Eliminate the week-after-pill from the contraceptive mandate
+      - page: 485
+        ref: 485
+        text: Withdraw Ryan White guidance allowing funds to pay for cross-sex transition support. HRSA should withdraw all guidance encouraging Ryan White HIV/AIDS Program service providers to provide controversial "gender transition" procedures or "gender-affirming care,"
+      - page: 489
+        ref: 489
+        text: eliminate the HHS Reproductive Healthcare Access Task Force and install a pro-life task force to ensure that all of the department's divisions seek to use their authority to promote the life and health of women and their unborn children.
+      - page: 492
+        ref: 492
+        text: Rescind legal analysis that authorized HHS to impose a moratorium on rental evictions during COVID
+      - page: 494
+        ref: 494
+        text: waivers for state and child welfare agencies for religious exemptions, especially for faith-based adoption and foster care agencies. It should also rescind subjective case-by-case evaluations for religious and faith-based organizations that request religious exemptions.
+      - page: 495
+        ref: 495
+        text: Remove all guidance issued under the Biden Administration concerning sexual orientation and gender identity … Issue a general statement of policy specifying that it will not enforce any prohibition on sexual orientation and gender identity discrimination
+      - page: 495
+        ref: 495
+        text: Issue a proposed rule to restore the Trump regulations under Section 1557, explicitly interpreting the law not to include sexual orientation and gender identity discrimination
+      - page: 496
+        ref: 496
+        text: withdraw its "Obligations Under Federal Civil Rights Laws to Ensure Access to Comprehensive Reproductive Health Care Services" guidance for retail pharmacies
+      - page: 497
+        ref: 497
+        text: OCR* should withdraw its Health Insurance Portability and Accountability Act (HIPAA) guidance on abortion. OCR should withdraw its June 2022 guidance that purports to address patient privacy concerns following the Dobbs decision
+        note: "* Office for Civil Rights"
+  # 15. Department Of Housing And Urban Development Benjamin S. Carson, Sr., Md
+  - title: Department Of Housing And Urban Development
+    author: Benjamin S. Carson, Sr., Md
+    quotes:
+      - page: 508
+        ref: 508
+        text: Repeal climate change initiatives and spending in the department's budget request.
+      - page: 509
+        ref: 509
+        text: Repeal the Affirmatively Furthering Fair Housing (AFFH) regulation reinstituted under the Biden Administration and any other uses of special-purpose credit authorities to further equity.
+  # 16. Department Of The Interior William Perry Pendley
+  - title: Department Of The Interior
+    author: William Perry Pendley
+    quotes:
+      - page: 523
+        ref: 523
+        text: Conduct offshore oil and natural gas lease sales to the maximum extent permitted
 # 17. Department Of Justice Gene Hamilton
 # 18. Department Of Labor And Related Agencies .. Jonathan Berry
 # 19. Department Of Transportation. Diana Furchtgott-Roth
