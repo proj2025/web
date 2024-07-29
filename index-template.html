@@ -46,15 +46,20 @@
         <section>
             <h2>{{title}}</h2>
             {{#author}}
+            {{^kgmid}}
             <address>{{author}}</address>
+            {{/kgmid}}
+            {{#kgmid}}
+            <address><a href="https://www.google.com/search?kgmid={{kgmid}}" target="_blank">{{author}}</address></a>
+            {{/kgmid}}
             {{/author}}
             {{#quotes}}
             {{#note}}
             <aside>{{note}}</aside>
             {{/note}}
             <p>
-                <a href="https://archive.org/details/2025_MandateForLeadership_FULL/page/{{ref}}/mode/1up?view=theater">Page
-                    {{page}}</a>:
+                <a href="https://archive.org/details/2025_MandateForLeadership_FULL/page/{{ref}}/mode/1up?view=theater"
+                    target="_blank">Page {{page}}</a>:
                 {{text}}
             </p>
             {{/quotes}}

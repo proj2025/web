@@ -14,6 +14,7 @@ sections:
   # Foreword: A Promise To America Kevin D. Roberts, Phd
   - title: "Foreword: A Promise To America"
     author: Kevin D. Roberts, Phd
+    kgmid: /g/11dxdyw2vn
     quotes:
       - page: 3
         ref: n34
@@ -64,6 +65,7 @@ sections:
   # White House Office Rick Dearborn
   - title: White House Office
     author: Rick Dearborn
+    kgmid: /g/11c32fgkvj
     quotes:
       - page: 27
         ref: n58
@@ -71,6 +73,7 @@ sections:
   # Executive Office Of The President Of The United States Russ Vought
   - title: Executive Office Of The President Of The United States
     author: Russ Vought
+    kgmid: /g/11g88f57z0
     quotes:
       - page: 44
         ref: 44
@@ -126,6 +129,7 @@ sections:
   # Central Personnel Agencies: Managing The Bureaucracy. Donald Devine, Dennis Dean Kirk, And Paul Dans
   - title: "Central Personnel Agencies: Managing The Bureaucracy"
     author: Donald Devine, Dennis Dean Kirk, And Paul Dans
+    kgmid: /m/0j7m257
     quotes:
       - page: 82
         ref: 82
@@ -134,6 +138,7 @@ sections:
   # Department Of Defense Christopher Miller
   - title: Department Of Defense
     author: Christopher Miller
+    kgmid: /g/11qnd0bqj_
     quotes:
       - page: 94
         ref: 94
@@ -156,6 +161,7 @@ sections:
   # Department Of Homeland Security Ken Cuccinelli
   - title: Department Of Homeland Security
     author: Ken Cuccinelli
+    kgmid: /m/027hyk1
     quotes:
       - page: 13
         ref: 13
@@ -232,6 +238,7 @@ sections:
   # Department Of State..... Kiron K. Skinner
   - title: Department Of State
     author: Kiron K. Skinner
+    kgmid: /m/0g1bf9g
     quotes:
       - page: 185
         ref: 185
@@ -258,6 +265,7 @@ sections:
   # U.S. Agency For Global Media... Eer Mora Namdar Corporation For Public Broadcasting .... Mike Gonzalez
   - title: Corporation For Public Broadcasting
     author: Mike Gonzalez
+    kgmid: /g/11f4hndl98
     quotes:
       - page: 248
         ref: 248
@@ -266,6 +274,7 @@ sections:
   # Agency For International Development Max Primorac
   - title: Agency For International Development
     author: Max Primorac
+    kgmid: /g/11rbf6j4x1
     quotes:
       - page: 257
         ref: 257
@@ -291,6 +300,7 @@ sections:
   # 10. Department Of Agriculture Daren Bakst
   - title: Department Of Agriculture
     author: Daren Bakst
+    kgmid: /g/11f2d5yr1d
     quotes:
       - page: 293
         ref: 293
@@ -331,6 +341,7 @@ sections:
   # 11. Department Of Education... Lindsey M. Burke
   - title: Department Of Education
     author: Lindsey M. Burke
+    kgmid: /g/11gd46p3cl
     quotes:
       - page: 319
         ref: 319
@@ -366,6 +377,7 @@ sections:
   # 12. Department Of Energy And Related Commissions Bernard L. Mcnamee
   - title: Department Of Energy And Related Commissions
     author: Bernard L. Mcnamee
+    kgmid: /g/11h2g209jq
     quotes:
       - page: 365
         ref: 365
