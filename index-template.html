@@ -33,11 +33,11 @@
         <p>The Plot Against America</p>
         <section>
             <p>If you want to comment on, or re-post any of these quotes you can find them on <a
-                href="https://x.com/project___2025">Twitter</a>, <a
-                href="https://mastodon.social/@project2025">Mastodon</a>, or <a
-                href="https://bsky.app/profile/project2025.bsky.social">Bluesky</a>.
-        </p>
-        <p>Everything below is directly quoted from the <a
+                    href="https://x.com/project___2025">Twitter</a>, <a
+                    href="https://mastodon.social/@project2025">Mastodon</a>, or <a
+                    href="https://bsky.app/profile/project2025.bsky.social">Bluesky</a>.
+            </p>
+            <p>Everything below is directly quoted from the <a
                     href="https://static.project2025.org/2025_MandateForLeadership_FULL.pdf">Project
                     2025 document.</a>
             </p>
@@ -45,13 +45,18 @@
         {{#sections}}
         <section>
             <h2>{{title}}</h2>
+            {{#author}}
             <address>{{author}}</address>
+            {{/author}}
             {{#quotes}}
-            <h3><a href="https://archive.org/details/2025_MandateForLeadership_FULL/page/{{ref}}/mode/1up?view=theater">Page
-                    {{page}}</a>
-            </h3>
-            <p>{{text}}</p>
+            {{#note}}
             <aside>{{note}}</aside>
+            {{/note}}
+            <p>
+                <a href="https://archive.org/details/2025_MandateForLeadership_FULL/page/{{ref}}/mode/1up?view=theater">Page
+                    {{page}}</a>:
+                {{text}}
+            </p>
             {{/quotes}}
         </section>
         {{/sections}}
