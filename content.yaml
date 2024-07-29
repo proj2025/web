@@ -2,31 +2,127 @@ sections:
   # Contents
   # Acknowledgments... ; The Project 2025 Advisory Board
   # The 2025 Presidential Transition Project: A Note On “Project 2025”
+  - title: "The 2025 Presidential Transition Project: A Note On “Project 2025”"
+    quotes:
+      - page: xiv
+        ref: n13
+        text: Project 2025 is more than 50 (and growing) of the nation’s leading conservative organizations joining forces to prepare and seize the day
+      - page: xiv
+        ref: n13
+        text: "we are forming agency teams and drafting transition plans to move out upon the President’s utterance of “so help me God.”"
   # Authors. Contributors
   # Foreword: A Promise To America Kevin D. Roberts, Phd
   - title: "Foreword: A Promise To America"
     author: Kevin D. Roberts, Phd
     quotes:
+      - page: 3
+        ref: n34
+        text: Dismantle the administrative state
       - page: 4
         ref: n35
         text: deleting the terms sexual orientation and gender identity … gender, gender equality, gender equity, gender awareness, gender-sensitive, abortion, reproductive health, reproductive rights … out of every … rule, … regulation, contract, grant, regulation, and … legislation
+      - page: 5
+        ref: n36
+        text: Pornography should be outlawed. The people who produce and distribute it should be imprisoned. Educators and public librarians who purvey it should be classed as registered sex offenders. And telecommunications and technology firms that facilitate its spread should be shuttered.
+      - page: 5
+        ref: n36
+        text: Pornography, manifested today in the omnipresent propagation of transgender ideology and sexualization of children, … It has no claim to First Amendment protection.
+      - page: 5
+        ref: n36
+        text: installing work requirements for food stamps
       - page: 6
         ref: n37
         text: the Dobbs decision is just the beginning. … push as hard as possible to protect the unborn in every jurisdiction in America. In particular, the next conservative President should work with Congress to enact the most robust protections for the unborn
+      - page: 6
+        ref: n37
+        text: as hard as possible to protect the unborn in every jurisdiction in America. In particular, the next conservative President should work with Congress to enact the most robust protections for the unborn
+      - page: 9
+        ref: n40
+        text: here are many executive tools a courageous conservative President can use to handcuff the bureaucracy … bring the Administrative State to heel
+      - page: 9
+        ref: n40
+        text: "The Conservative Promise lays out how to use many of these tools including: how to fire supposedly “un-fireable” federal bureaucrats"
+      - page: 13
+        ref: n44
+        text: Our Constitution grants each of us the liberty to do not what we want, but what we ought.
+      - page: 13
+        ref: n44
+        text: An individual must be free to live as his Creator ordained
+
   # Section 1: Taking The Reins Of Government
   - title: "Section 1: Taking The Reins Of Government"
     quotes:
       - page: 20
         ref: n51
         text: political appointees must be given the tools, knowledge, and support to overcome the federal government’s obstructionist Human Resources departments. More fundamentally, the new Administration must fill its ranks with political appointees.
+      - page: 20
+        ref: n51
+        text: Empowering political appointees across the Administration is crucial to a President’s success.
+      - page: 21
+        ref: n51
+        text: "Political appointees who are answerable to the President and have decision-making authority in the executive branch are key to this essential task. The next Administration must not cede such authority to non-partisan “experts,”"
   # White House Office Rick Dearborn
   - title: White House Office
     author: Rick Dearborn
     quotes:
+      - page: 27
+        ref: n58
+        text: Attorneys working in the Office of White House Counsel … should be deeply committed to the President’s agenda … should not erect roadblocks out of an abundance of caution;
+  # Executive Office Of The President Of The United States Russ Vought
+  - title: Executive Office Of The President Of The United States
+    author: Russ Vought
+    quotes:
+      - page: 44
+        ref: 44
+        text: The great challenge confronting a conservative President is the existential need for aggressive use of the vast powers of the executive branch … Success in meeting that challenge will require … boldness to bend or break the bureaucracy to the presidential will
+      - page: 50
+        ref: 50
+        text: ensure that multiple regulatory actions could be packaged and voted on at the same time. … allow the President to focus his rulemaking resources on major new regulatory reforms rather than devoting months or years to undoing the final rulemakings of the Biden Administration.
+      - page: 51
+        ref: 51
+        text: Aligning NSC* staff to the President’s national security goals …. political appointees or a minimum number of career detailees, who are selected and vetted politically and report directly to political staff should be the main day-to-day managers
+        note: "* National Security Council"
+      - page: 52
+        ref: 52
+        text: conduct reviews of operational war plans and global force planning and allocations with the Secretary of Defense to align them with presidential priorities
+      - page: 52
+        ref: 52
+        text: rigorously review all general and flag officer promotions to prioritize the core roles and responsibilities of the military over social engineering and non-defense matters, including climate change
+      - page: 52
+        ref: 52
+        text: the NSA¹ should prioritize staffing … NSC² directorates with aligned political appointees and trusted career officials. For instance, the NSA should return all nonessential detailees to their home agencies on their first day in office
+        note: ¹ National Security Advisor ² National Security Council
+      - page: 53
+        ref: 53
+        text: rapidly sizing and solidifying the NSC* staff to support and achieve the President’s objectives beginning on Inauguration Day.
+        note: "* National Security Council"
+      - page: 59
+        ref: 59
+        text: reshape the U.S. Global Change Research Program … and related climate change research programs. … strategic plans and research (for example, the National Climate Assessment) … frustrate successful litigation defense in ways that the career bureaucracy should not be permitted to control.
+      - page: 59
+        ref: 59
+        text: increase the prominence of the OSTP’s Director … to balance out agencies like the Departments of Energy, State, and Commerce and the Environmental Protection Agency and Council on Environmental Quality.
+        note: "* Office of Science and Technology Policy"
+      - page: 59
+        ref: 59
+        text: R&D funding around the so-called Industries of the Future (IOTF). … Under President Biden, this list has been expanded to include … battery technology, cybersecurity, green products and clean technology … and agricultural technologies, …. These priorities should be evaluated and narrowed
       - page: 60
         ref: 60
         text: Similarly, the Biden Administration’s climate fanaticism will need a whole-of-government unwinding.
-  # Executive Office Of The President Of The United States Russ Vought
+      - page: 60
+        ref: 60
+        text: restore related EOP* research components … (for example, the Carbon Cycle Interagency Working Group); … separate the scientific risk assessment function from the risk management, which is the exclusive domain of elected policymakers and the public.
+        note: "* Executive Office of the President"
+      - page: 60
+        ref: 60
+        text: unwinding policies and procedures that are used to advance radical gender, racial, and equity initiatives under the banner of science
+      - page: 60
+        ref: 60
+        text: The President should instruct the CEQ* to rewrite its regulations … restoring its key provisions such as banning the use of cumulative impact analysis.
+        note: "* Council on Environmental Quality"
+      - page: 61
+        ref: 61
+        text: abolishing the existing Office of Domestic Climate Policy
   # Central Personnel Agencies: Managing The Bureaucracy. Donald Devine, Dennis Dean Kirk, And Paul Dans
   - title: "Central Personnel Agencies: Managing The Bureaucracy"
     author: Donald Devine, Dennis Dean Kirk, And Paul Dans
@@ -61,6 +157,12 @@ sections:
   - title: Department Of Homeland Security
     author: Ken Cuccinelli
     quotes:
+      - page: 13
+        ref: 13
+        text: Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS).
+      - page: 13
+        ref: 13
+        text: (CBP) … be combined with … (ICE); U.S. Citizenship and Immigration Services … the … Office of Refugee Resettlement … and the … Executive Office for Immigration Review … and Office of Immigration Litigation … into a standalone border and immigration agency at the Cabinet level
       - page: 139
         ref: 139
         text: CBP* should restart and expand use of the horseback-mounted Border Patrol.
@@ -93,6 +195,9 @@ sections:
         ref: 147
         text: USCIS* should be classified as a national security-sensitive agency … Leaks must be investigated and punished as they would be in a national security agency, and the union should be decertified.
         note: "* U.S. Citizenship and Immigration Services"
+      - page: 147
+        ref: 147
+        text: Mandatory appropriation for border wall system infrastructure.
       - page: 148
         ref: 148
         text: at a minimum codify the holding in Matter of A-B,- that gang violence and domestic violence are not grounds for asylum
@@ -177,8 +282,12 @@ sections:
       - page: 265
         ref: 265
         text: Increasing USAID Collaboration with Faith-Based Organizations
-
   # Section 3: The General Welfare
+  - title: The General Welfare
+    quotes:
+      - page: 285
+        ref: 285
+        text: the FBI views itself as an independent agency” that is “on par with the Attorney General,” rather than as an agency that is under the AG and fully accountable to him or her. … rein in this “completely out of control” bureau and remind it of its place within … the DOJ hierarchy
   # 10. Department Of Agriculture Daren Bakst
   - title: Department Of Agriculture
     author: Daren Bakst
@@ -190,9 +299,23 @@ sections:
         ref: 297
         text: prohibiting farmers from receiving an ARC¹ or PLC² payment the same year they receive a crop insurance indemnity.
         note: ¹ Agricultural Risk Coverage, ² Price Loss Coverage
+      - page: 299
+        ref: 299
+        text: "Reform SNAP*. Ostensibly, SNAP sends money … to help “low-income” individuals buy food. It is the largest of the federal nutrition programs. … SNAP serves 41.1 million individuals …The next Administration should: Re-implement work requirements."
+        note: "* Supplemental Nutrition Assistance Program"
       - page: 302
         ref: 302
         text: As for baby formula regulations generally, labeling regulations and regulations that unnecessarily delay the manufacture and sale of baby formula should be re-evaluated.
+      - page: 302
+        ref: 302
+        text: Return to the Original Purpose of School Meals. Federal meal programs for K–12 students were created to provide food to children from low-income families while at school. Today … federal school meals increasingly resemble entitlement programs that have strayed far from their original objective
+      - page: 303
+        ref: 303
+        text: reject efforts to transform federal school meals into an entitlement program. … only an individual school or a school district as a whole, not a subset of schools within a district, must meet the 40-percent criteria … Work with lawmakers to eliminate CEP*
+        note: "* Community Eligibility Provision"
+      - page: 303
+        ref: 303
+        text: should not provide meals to students during the summer unless students are taking summer-school classes. Currently, students can get meals from schools even if they are not in summer school, which has, in effect, turned school meals into a federal catering program.
       - page: 304
         ref: 304
         text: Champion the elimination of the Conservation Reserve Program. Farmers should not be paid in such a sweeping way not to farm their land.
@@ -215,6 +338,10 @@ sections:
       - page: 322
         ref: 322
         text: When the federal government lends money to individuals for a postsecondary education, taxpayers should expect those borrowers to repay. … The new Administration must end abuses in the loan forgiveness programs. Borrowers should be expected to repay their loans.
+      - page: 332
+        ref: 332
+        text: the current Administration has drastically expanded BDR¹, CSLD², and PSLF³ loan forgiveness … quickly commence negotiated rulemaking and propose that the department rescind these regulations.
+        note: ¹ borrower defense to repayment ² closed school loan discharge ³ public service loan forgiveness
       - page: 333
         ref: 333
         text: define “sex” under Title IX to mean only biological sex recognized at birth. …  define “sex” under Title IX to mean only biological sex recognized at birth; and strengthen protections for faith-based educational institutions, programs, and activities.
@@ -287,18 +414,35 @@ sections:
       - page: 459
         ref: 459
         text: The Administration and policymakers should ensure that health care workers, particularly those in hospitals and emergency rooms, report abortion pill complications.
+      - page: 467
+        ref: 467
+        text: "CMS* should: a. Hold states accountable for improper eligibility determinations. b. Require more robust eligibility determinations. c. Strengthen asset test determinations within Medicaid."
+        note: "* Centers for Medicare & Medicaid Services"
+      - page: 468
+        ref: 468
+        text: Add work requirements and match Medicaid benefits to beneficiary needs. … Add targeted time limits or lifetime caps on benefits to disincentivize permanent dependence.
       - page: 471
         ref: 471
         text: Prohibit Planned Parenthood from receiving Medicaid funds.
+      - page: 473
+        ref: 473
+        text: The Emergency Medical Treatment and Active Labor Act … prohibits hospitals … protect physicians and hospitals that perform abortions in violation of state law if they deem those abortions necessary to stabilize the women’s health. … HHS should rescind the guidance
       - page: 481
         ref: 481
         text: Protect faith-based grant recipients from religious liberty violations and maintain a biblically based, social science-reinforced definition of marriage and family.
       - page: 482
         ref: 482
         text: Eliminate the Head Start program.
+      - page: 482
+        ref: 482
+        text: OFFICE OF HEAD START (OHS) Eliminate the Head Start program. Head Start, originally established and funded to support low-income families … the program should function to protect and educate minors …  this program should be eliminated along with the entire OHS.
       - page: 483
         ref: 483
         text: Restore Trump religious and moral exemptions to the contraceptive mandate
+      - page: 484
+        ref: 484
+        text: Require HRSA* to use rulemaking to update the women’s preventive services mandate. The contraceptive mandate … was issued as part of the women’s preventive services guidelines
+        note: "* Health Resources and Services Administration"
       - page: 485
         ref: 485
         text: Eliminate men's preventive services from the women's preventive services mandate. … HRSA* should not incorporate exclusively male contraceptive methods into guidelines that specify they encompass only women's services.
@@ -397,6 +541,9 @@ sections:
       - page: 562
         ref: 562
         text: Reassigning Responsibility for Prosecuting Election-Related Offenses from the Civil Rights Division to the Criminal Division. The Attorney General in the next conservative Administration should reassign responsibility for prosecuting violations of 18 U.S. Code § 241
+      - page: 566
+        ref: 566
+        text: During the Trump Administration … prevented law enforcement in “sanctuary cities” from receiving grant awards. … Order an overhaul of the DOJ grant application process, to include … more pre-application criteria
       - page: 569
         ref: 569
         text: It is not enough for political appointees to serve in obvious offices … support a vast expansion of the number of appointees in every office and component across the department-especially in the Civil Rights Division, the FBI, and the EOIR*.
@@ -423,16 +570,26 @@ sections:
       - page: 586
         ref: 586
         text: The President should make clear via executive order that religious employers are free to run their businesses according to their religious beliefs, general nondiscrimination laws notwithstanding
+      - page: 586
+        ref: 586
+        text: EEOC* should disclaim its regulatory pretensions.
+        note: "* Equal Employment Opportunity Commission"
       - page: 588
         ref: 588
         text: DOL* should commit to honest study of the challenges for women in the world of professional work. … disentangle the influences on women's workforce participation and to understand the true causes of earnings gaps between men and women.
         note: "* Department of Labor"
+      - page: 588
+        ref: 588
+        text: Metrics like marriage and fertility rates, the share of children living with both biological parents … should be measured and reported monthly and in real-time
       - page: 589
         ref: 589
         text: amending the Fair Labor Standards Act (FLSA) to require that workers be paid time and a half for hours worked on the Sabbath. That day would default to Sunday
       - page: 590
         ref: 590
         text: a home office is not subject to OSHA regulations … time to set up a home office is not compensable time or eligible for overtime calculations … reimbursement for home office expenses is not part of an employee's regular rate, even if those reimbursements are repetitive
+      - page: 591
+        ref: 591
+        text: An Obama-era regulation changed the definition of a joint employer to make corporate franchisors jointly liable for employees of individual franchisee owners … return to the long-standing approach to defining joint employers based on direct and immediate control.
       - page: 595
         ref: 595
         text: Some young adults show an interest in inherently dangerous jobs … rules forbid many young people … from working in such jobs … discourages otherwise interested young workers from trying the more dangerous job … young adults should be allowed to learn and work in more dangerous occupations
@@ -491,6 +648,10 @@ sections:
       - page: 676
         ref: 676
         text: Downsize the Office of Oceanic and Atmospheric Research. … The preponderance of its climate-change research should be disbanded.
+      - page: 677
+        ref: 677
+        text: Scientific agencies like NOAA* are vulnerable to obstructionism of an Administration’s aims if political appointees are not wholly in sync with Administration policy. Particular attention must be paid to appointments in this area.
+        note: "* National Oceanographic and Atmospheric Administration"
       - page: 679
         ref: 679
         text: committed political appointees and like-minded career employees are in immediately put in place to execute a conservative agenda. These will need to be placed both in the Census Bureau and in key department-level managerial positions
