@@ -1,6 +1,12 @@
 sections:
   # Contents
-  # Acknowledgments... ; The Project 2025 Advisory Board
+  # Acknowledgments... ;
+  # The Project 2025 Advisory Board
+  - title: "The Project 2025 Advisory Board"
+    quotes:
+      - page: xi
+        ref: n10
+        text: The Project 2025 Advisory Board … America First Legal Foundation
   # The 2025 Presidential Transition Project: A Note On “Project 2025”
   - title: "The 2025 Presidential Transition Project: A Note On “Project 2025”"
     quotes:
@@ -10,7 +16,21 @@ sections:
       - page: xiv
         ref: n13
         text: "we are forming agency teams and drafting transition plans to move out upon the President’s utterance of “so help me God.”"
-  # Authors. Contributors
+  # Authors.
+  - title: "Authors"
+    quotes:
+      - page: xviii
+        ref: n17
+        text: Authors … Gene Hamilton is Vice-President and General Counsel of America First Legal Foundation. Gene served as Counselor to the Attorney General at the U.S. Department of Justice; Senior Counselor to the Secretary of Homeland Security;
+      - page: xx
+        ref: n19
+        text: Authors … Peter Navarro … was one of only three senior White House officials to serve with Donald Trump from the 2016 campaign to the end of the President’s first term. He was the West Wing’s chief China hawk and trade czar and served as Director of the Office of Trade and Manufacturing Policy
+  # Contributors
+  - title: "Contributors"
+    quotes:
+      - page: xxv
+        ref: XXV
+        text: The contributors listed below generously volunteered their time and effort to assist the authors in the development and writing of this volume’s 30 chapters. … Tom Homan, The Heritage Foundation  
   # Foreword: A Promise To America Kevin D. Roberts, Phd
   - title: "Foreword: A Promise To America"
     author: Kevin D. Roberts, Phd
