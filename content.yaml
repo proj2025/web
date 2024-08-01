@@ -19,9 +19,24 @@ sections:
   # Authors.
   - title: "Authors"
     quotes:
+      - page: xv
+        ref: n14
+        text: Authors … Jonathan Berry … At the U.S. Department of Justice, he assisted with … the nominations of Justice Neil Gorsuch and dozens of other judges. He previously served as Chief Counsel for the Trump transition and earlier clerked for Associate Justice Samuel Alito
+      - page: xvi
+        ref: n15
+        text: Authors … Adam Candeub … served as acting Assistant Secretary of Commerce and Deputy Associate Attorney General at the Justice Department during the Trump Administration.
+      - page: xvii
+        ref: n16
+        text: Authors … Ken Cuccinelli served as Acting Director of U.S. Citizenship and Immigration Services in 2019 and then, from November 2019 through the end of the Trump Administration, as Acting Deputy Secretary for the U.S. Department of Homeland Security.
+      - page: xviii
+        ref: n17
+        text: Authors … Thomas F. Gilman served as Assistant Secretary of Commerce for Administration and Chief Financial Officer of the U.S. Department of Commerce in the Trump Administration. 
       - page: xviii
         ref: n17
         text: Authors … Gene Hamilton is Vice-President and General Counsel of America First Legal Foundation. Gene served as Counselor to the Attorney General at the U.S. Department of Justice; Senior Counselor to the Secretary of Homeland Security;
+      - page: xviii
+        ref: n17
+        text: Authors … Mandy M. Gunasekara … During the Trump Administration, Mandy served as the Chief of Staff at the U.S. Environmental Protection Agency as well as Principal Deputy Assistant Administrator for the Office of Air and Radiation.
       - page: xx
         ref: n19
         text: Authors … Peter Navarro … was one of only three senior White House officials to serve with Donald Trump from the 2016 campaign to the end of the President’s first term. He was the West Wing’s chief China hawk and trade czar and served as Director of the Office of Trade and Manufacturing Policy
