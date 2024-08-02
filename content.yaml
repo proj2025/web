@@ -469,13 +469,15 @@ sections:
   # 13. Environmental Protection Agency Mandy M. Gunasekara
   - title: Environmental Protection Agency
     author: Mandy M. Gunasekara
+    kgmid: /g/11sc7n0jv3
     quotes:
       - page: 438
         ref: 438
         text: Reject precautionary default models and uncertainty factors. … EPA's heavy reliance on default assumptions like its low-dose, linear non-threshold model … EPA should implement an approach that defaults to less restrictive regulatory outcomes.
   # 14. Department Of Health And Human Services Roger Severino
-  - title: Department Of Housing And Urban Development
-    author: Benjamin S. Carson, Sr., Md
+  - title: Department Of Health And Human Services
+    author: Roger Severino
+    kgmid: /g/11fk1rc5gx
     quotes:
       - page: 455
         ref: 455
@@ -551,6 +553,7 @@ sections:
   # 15. Department Of Housing And Urban Development Benjamin S. Carson, Sr., Md
   - title: Department Of Housing And Urban Development
     author: Benjamin S. Carson, Sr., Md
+    kgmid: /m/03znkl
     quotes:
       - page: 508
         ref: 508
@@ -561,6 +564,7 @@ sections:
   # 16. Department Of The Interior William Perry Pendley
   - title: Department Of The Interior
     author: William Perry Pendley
+    kgmid: /m/0c4xt_8
     quotes:
       - page: 523
         ref: 523
@@ -592,6 +596,7 @@ sections:
   # 17. Department Of Justice Gene Hamilton
   - title: Department Of Justice
     author: Gene Hamilton
+    kgmid: /g/11rhx19n9m
     quotes:
       - page: 547
         ref: 547
@@ -669,6 +674,7 @@ sections:
   # 19. Department Of Transportation. Diana Furchtgott-Roth
   - title: Department Of Transportation
     author: Diana Furchtgott-Roth
+    kgmid: /m/05wf1sl
     quotes:
       - page: 628
         ref: 628
@@ -690,6 +696,7 @@ sections:
   # 20. Department Of Veterans Affairs Brooks D. Tucker
   - title: Department Of Veterans Affairs
     author: Brooks D. Tucker
+    kgmid: /g/11dfh4v08h
     quotes:
       - page: 644
         ref: 644
@@ -810,6 +817,7 @@ sections:
   # Federal Reserve... Paul Winfree
   - title: Federal Reserve
     author: Paul Winfree
+    kgmid: /g/11gg9kwmgt
     quotes:
       - page: 740
         ref: 740
@@ -829,6 +837,7 @@ sections:
   # The Case For Fair Trade... Peter Navarro
   - title: The Case For Fair Trade
     author: Peter Navarro
+    kgmid: /m/05whs97
     quotes:
       - page: 790
         ref: 790
@@ -859,6 +868,7 @@ sections:
   # Federal Trade Commission ... Adam Candeub
   - title: Federal Trade Commission
     author: Adam Candeub
+    kgmid: /g/11byfn2x6q
     quotes:
       - page: 873
         ref: 873
