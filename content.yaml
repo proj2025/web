@@ -37,9 +37,28 @@ sections:
       - page: xviii
         ref: n17
         text: Authors … Mandy M. Gunasekara … During the Trump Administration, Mandy served as the Chief of Staff at the U.S. Environmental Protection Agency as well as Principal Deputy Assistant Administrator for the Office of Air and Radiation.
+      - page: xix
+        ref: n18
+        text: Authors … Dennis Dean Kirk … During the Trump Administration, Dennis served in senior positions at the Office of Personnel Management and was nominated by President Trump to be Chairman of the Merit Systems Protection Board.
+      - page: xix
+        ref: n18
+        text: Authors … Christopher Miller served … during the Trump Administration, …  as Acting U.S. Secretary of Defense, Director of the National Counterterrorism Center, Deputy Assistant Secretary of Defense …, and Senior Director … at the National Security Council.
+      - page: xx
+        ref: n19
+        text: Authors … Mora Namdar … senior advisor … at the U.S. State Department and was appointed by President Donald Trump to perform the duties of the Assistant Secretary of State for Consular Affairs. … served as Vice President of Legal, Compliance, and Risk at the U.S. Agency for Global Media.
       - page: xx
         ref: n19
         text: Authors … Peter Navarro … was one of only three senior White House officials to serve with Donald Trump from the 2016 campaign to the end of the President’s first term. He was the West Wing’s chief China hawk and trade czar and served as Director of the Office of Trade and Manufacturing Policy
+      - page: xx
+        ref: n19
+        text: Authors … William Perry Pendley … leader of the Bureau of Land Management for President Donald Trump.
+      - page: xxii
+        ref: n21
+        text: EDITORS Paul Dans … served in the Trump Administration as Chief of Staff at the U.S. Office of Personnel Management, as OPM*’s White House liaison, and as a senior advisor at the U.S. Department of Housing and Urban Development.
+        note: "* Office of Personnel Management"
+      - page: xxiii
+        ref: n22
+        text: EDITORS … Steven Groves … served in the Trump Administration, first as … Chief of Staff at the U.S. Mission to the United Nations. … Assistant Special Counsel, representing the White House in the Mueller investigation. Groves also served as White House Deputy Press Secretary.
   # Contributors
   - title: "Contributors"
     quotes:
