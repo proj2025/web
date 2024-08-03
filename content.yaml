@@ -204,9 +204,23 @@ sections:
       - page: 73
         ref: 73
         text: In 2018, President Trump issued Executive Order 13839 requiring agencies … to reevaluate procedures for agencies to discipline supervisors who retaliate against whistleblowers. Unfortunately, the order was overturned by the Biden Administration, so it will need to be reintroduced in 2025.
+      - page: 76
+        ref: 76
+        text: With the proper limitation of labor union actions … should have limited reason for appeals. The EEOC*’s federal employee section should be transferred …  greatly simplifying the burdensome appeal process.
+        note: "* Equal Employment Opportunity Commission"
+      - page: 80
+        ref: 80
+        text: Trump … issued Executive Order 13957 to make career professionals … who … exercise significant discretion … an exception to the competitive hiring rules … under a new Schedule F.  …. The order was subsequently reversed by President Biden …. It should be reinstated
+      - page: 81
+        ref: 81
+        text: Executive Order 13839, encouraging agencies both to limit labor grievances on removals from service or on challenging performance appraisals … revoked by the Biden Administration and should be reinstated by the next Administration
       - page: 82
         ref: 82
         text: Congress should also consider whether public-sector unions are appropriate in the first place. The bipartisan consensus up until the middle of the 20th century held that these unions were not compatible with constitutional government.
+      - page: 83
+        ref: 83
+        text: give the President direct supervision of the bureaucracy with the OPM* Director available in his Cabinet.
+        note: "* Office of Personnel Management"
   # Section 2: The Common Defense
   # Department Of Defense Christopher Miller
   - title: Department Of Defense
