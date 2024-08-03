@@ -222,11 +222,38 @@ sections:
         text: give the President direct supervision of the bureaucracy with the OPM* Director available in his Cabinet.
         note: "* Office of Personnel Management"
   # Section 2: The Common Defense
+  - title: The Common Defense
+    quotes:
+      - page: 87
+        ref: 87
+        text: our military has adopted a risk-averse culture—think of masked soldiers, sailors, and airmen
+      - page: 88
+        ref: 88
+        text: But this is now Barack Obama’s general officer corps. That is why Russ Vought argues in Chapter 2 that the National Security Council “should rigorously review all general and flag officer promotions
+      - page: 89
+        ref: 89
+        text: Divisive symbols such as the rainbow flag … have no place next to the Stars and Stripes at our embassies.
+      - page: 89
+        ref: 89
+        text: Former acting deputy secretary of homeland security Ken Cuccinelli says in Chapter 5 that the Department of Homeland Security (DHS) … should be closed … He recommends that it be replaced with a new “stand-alone border and immigration agency at the Cabinet level”
+      - page: 90
+        ref: 90
+        text: restructure the making and execution of U.S. defense and foreign policy and reset the nation’s role in the world. The recommendations outlined in this section provide guidance on how the next President should use the federal government’s vast resources to do just that.
   # Department Of Defense Christopher Miller
   - title: Department Of Defense
     author: Christopher Miller
     kgmid: /g/11qnd0bqj_
     quotes:
+      - page: 91
+        ref: 91
+        text: The DOD* is also a deeply troubled institution. … profoundly unserious equity agenda and vaccine mandates have taken a serious toll.
+        note: "* Department of Defense"
+      - page: 94
+        ref: 94
+        text: Transform NATO … relying on the United States primarily for our nuclear deterrent … while reducing the U.S. force posture in Europe.
+      - page: 94
+        ref: 94
+        text: Enable South Korea to take the lead in its conventional defense against North Korea.
       - page: 94
         ref: 94
         text: Implement nuclear modernization and expansion. The United States manifestly needs to modernize, adapt, and expand its nuclear arsenal.
