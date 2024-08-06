@@ -298,18 +298,37 @@ sections:
         text: End USCYBERCOM’s participation in federal efforts to “fortify” U.S. elections
       - page: 121
         ref: 121
+        text: include irregular warfare within the context of great-power competition … If we maintain irregular warfare’s traditional focus on nonstate actors, we limit ourselves to addressing only the symptoms (nonstate actors), not the problems themselves (China, Russia, North Korea, and Iran).
+      - page: 121
+        ref: 121
         text: Make irregular warfare a cornerstone of security strategy.
   # Department Of Homeland Security Ken Cuccinelli
   - title: Department Of Homeland Security
     author: Ken Cuccinelli
     kgmid: /m/027hyk1
     quotes:
-      - page: 13
-        ref: 13
+      - page: 133
+        ref: 133
         text: Our primary recommendation is that the President pursue legislation to dismantle the Department of Homeland Security (DHS).
-      - page: 13
-        ref: 13
+      - page: 133
+        ref: 133
         text: (CBP) … be combined with … (ICE); U.S. Citizenship and Immigration Services … the … Office of Refugee Resettlement … and the … Executive Office for Immigration Review … and Office of Immigration Litigation … into a standalone border and immigration agency at the Cabinet level
+      - page: 135
+        ref: 135
+        text: privatizing … the Federal Emergency Management Agency (FEMA) National Flood Insurance Program, reforming FEMA emergency spending to shift the majority of preparedness and response costs to states and localities instead of the federal government
+      - page: 136
+        ref: 136
+        text: An Aggressive Approach to Senate-Confirmed Leadership Positions. …  take a novel approach to the confirmations process … place its nominees for key positions into similar positions as “actings” (for example, putting in a person to serve as the Senior Official Performing the Duties of …). 
+      - page: 136
+        ref: 136
+        text:  Political-Only Line of Succession. … in circumstances where a career employee holds a leadership position in the department, that position should be deemed vacant for line-of-succession purposes and the next eligible political appointee in the sequence should assume acting authority.
+      - page: 137
+        ref: 137
+        text: ensure that all FEMA*-issued grant funding for states, localities, and private organizations is going to recipients who … can show that their mission and actions support the broader homeland security mission.
+        note: "* Federal Emergency Management Agency"
+      - page: 138
+        ref: 138
+        text: commitment by that state or locality to total information-sharing in the context of both federal law enforcement and immigration enforcement. This would include access to department of motor vehicles and voter registration databases.
       - page: 139
         ref: 139
         text: CBP* should restart and expand use of the horseback-mounted Border Patrol.
