@@ -349,6 +349,10 @@ sections:
       - page: 142
         ref: 142
         text: The use of Blackies Warrants should be operationalized within ICE. These civil search warrants are commonly used for worksite enforcement when agents have probable cause that illegal aliens are employed at a business. This would streamline investigations.
+      - page: 143
+        ref: 143
+        text: reimplementation of the USCIS* denaturalization unit—an effort to maintain integrity in the system by identifying and prosecuting criminal and civil denaturalization cases
+        note: "* U.S. Citizenship and Immigration Services"
       - page: 146
         ref: 146
         text: USCIS* should make it clear that where no court jurisdiction exists, it will not honor court decisions that seek to undermine regulatory and subregulatory efforts.
@@ -366,7 +370,24 @@ sections:
         text: Mandatory appropriation for border wall system infrastructure.
       - page: 148
         ref: 148
+        text: Congress should repeal Section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (TVPRA), which provides numerous immigration benefits to unaccompanied alien children
+      - page: 148
+        ref: 148
+        text: move detention of alien children expressly from the Department of Health and Human Services to DHS
+        note: "* Department of Homeland Security"
+      - page: 148
+        ref: 148
         text: at a minimum codify the holding in Matter of A-B,- that gang violence and domestic violence are not grounds for asylum
+      - page: 150
+        ref: 150
+        text: Prosecutorial discretion. Congress should restrict the authority for prosecutorial discretion to eliminate it as a “catch-all” excuse for limiting immigration enforcement.
+      - page: 152
+        ref: 152
+        text: prohibiting in whole or in part the introduction of persons from such countries … in order to avert or curtail … mass migration … including through the expulsion of such aliens. … not be subject to the requirements of the Administrative Procedures Act. … waive all legal requirements of Title 8
+      - page: 154
+        ref: 154
+        text: The NFIP* should be wound down and replaced with private insurance
+        note: "* National Flood Insurance Program"
       - page: 155
         ref: 155
         text: Of the utmost urgency is immediately ending CISA's* counter-mis/disinformation efforts.
