@@ -355,9 +355,16 @@ sections:
       - page: 159
         ref: 159
         text: Until it is privatized, TSA should be treated as a national security provider, and its workforce should be deunionized immediately.
+      - page: 161
+        ref: 161
+        text: The Office of Intelligence and Analysis should be eliminated … because it has been weaponized for domestic political purposes.
       - page: 162
         ref: 162
         text: OGC* should advise principals as to how DHS can execute its missions within the law instead of advising principals as to why they cannot execute regulations, policies, and programs.
+        note: "* Office of the General Counsel"
+      - page: 162
+        ref: 162
+        text: OGC* should hire significantly more Schedule C/political appointees who in turn supervise career staff and manage their output. DHS’s mission is politically charged, and the legal function cannot be allowed to thwart the Administration’s agenda
         note: "* Office of the General Counsel"
       - page: 165
         ref: 165
@@ -366,6 +373,10 @@ sections:
       - page: 165
         ref: 165
         text: only U.S. persons and Lawful Permanent Residents are provided protections as required by the Privacy Act
+      - page: 165
+        ref: 165
+        text: CRCL* and PRIV† staff should no longer review intelligence products or provide guidance on any intelligence products or reports
+        note: "* Civil Rights and Civil Liberties † Privacy Office"
       - page: 165
         ref: 165
         text: The Office of the Immigration Detention Ombudsman should be eliminated.
