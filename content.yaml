@@ -318,10 +318,10 @@ sections:
         text: privatizing … the Federal Emergency Management Agency (FEMA) National Flood Insurance Program, reforming FEMA emergency spending to shift the majority of preparedness and response costs to states and localities instead of the federal government
       - page: 136
         ref: 136
-        text: An Aggressive Approach to Senate-Confirmed Leadership Positions. …  take a novel approach to the confirmations process … place its nominees for key positions into similar positions as “actings” (for example, putting in a person to serve as the Senior Official Performing the Duties of …). 
+        text: An Aggressive Approach to Senate-Confirmed Leadership Positions. …  take a novel approach to the confirmations process … place its nominees for key positions into similar positions as “actings” (for example, putting in a person to serve as the Senior Official Performing the Duties of …).
       - page: 136
         ref: 136
-        text:  Political-Only Line of Succession. … in circumstances where a career employee holds a leadership position in the department, that position should be deemed vacant for line-of-succession purposes and the next eligible political appointee in the sequence should assume acting authority.
+        text: Political-Only Line of Succession. … in circumstances where a career employee holds a leadership position in the department, that position should be deemed vacant for line-of-succession purposes and the next eligible political appointee in the sequence should assume acting authority.
       - page: 137
         ref: 137
         text: ensure that all FEMA*-issued grant funding for states, localities, and private organizations is going to recipients who … can show that their mission and actions support the broader homeland security mission.
@@ -427,17 +427,42 @@ sections:
       - page: 165
         ref: 165
         text: CRCL* and PRIV† staff should no longer review intelligence products or provide guidance on any intelligence products or reports
-        note: "* Civil Rights and Civil Liberties † Privacy Office"
+        note: "* Civil Rights and Civil Liberties, † Privacy Office"
       - page: 165
         ref: 165
         text: The Office of the Immigration Detention Ombudsman should be eliminated.
       - page: 165
         ref: 165
+        text: disband the outside advisory boards and the more than 50 working groups in which CRCL* and PRIV† currently participate. Finally, CRCL and PRIV should no longer issue bulletins or periodicals.
+        note: "* Civil Rights and Civil Liberties, † Privacy Office"
+      - page: 166
+        ref: 166
+        text: the Secretary should immediately issue a directive stripping CRCL* of its immigration portfolio.
+        note: "* Civil Rights and Civil Liberties"
+      - page: 166
+        ref: 166
         text: The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.
+      - page: 166
+        ref: 166
+        text: a policy should be issued that prohibits CISOMB* from … helping DACA† applicants obtain and renew benefits, including work authorization.
+        note: "* Citizenship and Immigration Services Ombudsman, † Deferred Action for Childhood Arrivals"
+      - page: 166
+        ref: 166
+        text: "Department of Health and Human Services: Agree to move the Office of Refugee Resettlement (ORR) to DHS*"
+        note: "* Department of Homeland Security"
+      - page: 166
+        ref: 166
+        text: "Department of Defense: … participate actively in the defense of America’s borders, including using military personnel and hardware to prevent illegal crossings"
+      - page: 167
+        ref: 167
+        text: treat the administrative law judges (immigration judges and Board of Immigration Appeals) as national security personnel
       - page: 167
         ref: 167
         text: Allow DHS* to lead international engagement in the Western Hemisphere on issues of security and migration.
         note: "* Department of Homeland Security"
+      - page: 167
+        ref: 167
+        text: deny loan access to students at schools that provide in-state tuition to illegal aliens
   # Department Of State..... Kiron K. Skinner
   - title: Department Of State
     author: Kiron K. Skinner
