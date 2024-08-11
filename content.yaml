@@ -463,11 +463,27 @@ sections:
       - page: 167
         ref: 167
         text: deny loan access to students at schools that provide in-state tuition to illegal aliens
+      - page: 167
+        ref: 167
+        text: "Department of the Treasury: … provide DHS* with all tax information of illegal aliens as expeditiously as possible."
+        note: "* Department of Homeland Security"
   # Department Of State..... Kiron K. Skinner
   - title: Department Of State
     author: Kiron K. Skinner
     kgmid: /m/0g1bf9g
     quotes:
+      - page: 171
+        ref: 171
+        text: "large swaths of the State Department’s workforce … disagree with a conservative President’s policy agenda and vision. It should not and cannot be this way: … take swift and decisive steps to reforge the department into a lean and functional diplomatic machine that serves the President"
+      - page: 173
+        ref: 173
+        text: assert leadership over … the State Department by placing political appointees … also increase the number of political appointees to manage it. … No one in a leadership position on the morning of January 20 should hold that position at the end of the day.
+      - page: 174
+        ref: 174
+        text: Political ambassadors with strong personal relationships with the President should be prioritized for key strategic posts such as Australia, Japan, the United Kingdom, the United Nations, and the North Atlantic Treaty Organization (NATO).
+      - page: 174
+        ref: 174
+        text: Upon inauguration, the Secretary of State should order an immediate freeze on all efforts to implement unratified treaties and international agreements
       - page: 185
         ref: 185
         text: The Palestinian Authority should be defunded.
