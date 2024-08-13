@@ -1,8 +1,6 @@
-/* global $filter */
+const filter = document.location.search.replace(/^\?/, '')
 
-const filter = new URLSearchParams(document.location.search).get('filter')
-
-if (filter) {
+if (filter.length > 0) {
   document.querySelectorAll('p').forEach($p => {
     const $note = $p.nextElementSibling
     const hasNote = $note && $note.tagName === 'ASIDE'
@@ -27,6 +25,4 @@ if (filter) {
     })
     $section.style.display = display
   })
-
-  $filter.value = filter
 }
