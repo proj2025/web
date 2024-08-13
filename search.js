@@ -1,6 +1,6 @@
-/* global $filter */
+/* global $filter $search */
 
-const filter = document.location.search.replace(/^\?/, '')
+const filter = decodeURIComponent(document.location.search.replace(/^\?/, ''))
 
 if (filter.length > 0) {
   document.querySelectorAll('p').forEach($p => {
@@ -28,4 +28,10 @@ if (filter.length > 0) {
     $section.style.display = display
   })
   $filter.innerText = '(' + filter + ')'
+  $search.value = filter
+}
+
+$search.onchange = e => {
+  e.preventDefault()
+  document.location.search = $search.value
 }
