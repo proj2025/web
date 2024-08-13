@@ -1,3 +1,5 @@
+/* global $filter */
+
 const filter = document.location.search.replace(/^\?/, '')
 
 if (filter.length > 0) {
@@ -25,4 +27,5 @@ if (filter.length > 0) {
     })
     $section.style.display = display
   })
+  $filter.innerText = '(' + filter + ')'
 }
