@@ -497,9 +497,16 @@ sections:
       - page: 186
         ref: 186
         text: Reorient the focus of U.S. overseas development assistance away from stand-alone humanitarian development aid and toward fostering free market systems in African countries by incentivizing and facilitating U.S. private sector engagement in these countries.
+      - page: 191
+        ref: 191
+        text: promote a strict text-based interpretation of treaty obligations that does not consider human rights treaties as "living instruments" both within the State Department and within international organizations that receive U.S. funding
       - page: 192
         ref: 192
-        text: promote a strict text-based interpretation of treaty obligations that does not consider human rights treaties as "living instruments" both within the State Department and within international organizations that receive U.S. funding
+        text: end blind support for international organizations … the Trump Administration withdrew from, or terminated funding for, the United Nations Human Rights Council, the United Nations Educational, Scientific and Cultural Organization, the United Nations Relief and Works Agency, and the WHO.
+      - page: 192
+        ref: 192
+        text: become a vocal surrogate for people in countries where rights are being suppressed in the name of health. This will likely require greater restrictions on the supply of federal dollars to the WHO* and other health-focused international organizations
+        note: "* World Health Organization"
   # Intelligence Community Dustin J. Carmack
   - title: Intelligence Community
     author: Dustin J. Carmack
