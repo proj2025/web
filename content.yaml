@@ -584,9 +584,19 @@ sections:
   # Section 3: The General Welfare
   - title: The General Welfare
     quotes:
+      - page: 283
+        ref: 283
+        text: In essence, our deficit problem is a Medicare and Medicaid problem.
+      - page: 284
+        ref: 284
+        text: Severino writes that the “FDA* should...reverse its approval of chemical abortion drugs…”
+        note: "* Food and Drug Administration"
       - page: 285
         ref: 285
         text: the FBI views itself as an independent agency” that is “on par with the Attorney General,” rather than as an agency that is under the AG and fully accountable to him or her. … rein in this “completely out of control” bureau and remind it of its place within … the DOJ hierarchy
+      - page: 286
+        ref: 286
+        text: the Department of Energy should end the Biden Administration’s unprovoked war on fossil fuels, … oppose eyesore windmills
   # 10. Department Of Agriculture Daren Bakst
   - title: Department Of Agriculture
     author: Daren Bakst
