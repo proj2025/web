@@ -602,9 +602,16 @@ sections:
     author: Daren Bakst
     kgmid: /g/11f2d5yr1d
     quotes:
+      - page: 290
+        ref: 290
+        text: the USDA* should not try to control and shape the economy, but should instead remove obstacles that hinder food production. Further, it should not place ancillary issues, such as environmental issues, ahead of agricultural production itself.
+        note: "* U.S. Department of Agriculture"
       - page: 293
         ref: 293
         text: Remove the U.S. from any association with U.N. and other efforts to push sustainable-development schemes connected to food production.
+      - page: 295
+        ref: 295
+        text: Limit spending to directly help farmers and ranchers address issues due to unforeseen events
       - page: 297
         ref: 297
         text: prohibiting farmers from receiving an ARC¹ or PLC² payment the same year they receive a crop insurance indemnity.
